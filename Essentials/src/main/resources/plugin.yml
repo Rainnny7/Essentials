@@ -252,10 +252,6 @@ commands:
     description: Kicks all players off the server except the issuer.
     usage: /<command> [reason]
     aliases: [ekickall]
-  kill:
-    description: Kills specified player.
-    usage: /<command> <player>
-    aliases: [ekill]
   kit:
     description: Obtains the specified kit or views all available kits.
     usage: /<command> [kit] [player]
