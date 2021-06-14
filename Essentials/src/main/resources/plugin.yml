@@ -560,10 +560,6 @@ commands:
     description: Allows the unlimited placing of items.
     usage: /<command> <list|item|clear> [player]
     aliases: [eunlimited,ul,unl,eul,eunl]
-  vanish:
-    description: Hide yourself from other players.
-    usage: /<command> [player] [on|off]
-    aliases: [v,ev,evanish]
   warp:
     description: List all warps or warp to the specified location.
     usage: /<command> <pagenumber|warp> [player]
