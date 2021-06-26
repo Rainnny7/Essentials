@@ -264,10 +264,6 @@ commands:
     description: Throw an exploding kitten at your opponent.
     usage: /<command>
     aliases: [ekittycannon]
-  lightning:
-    description: The power of Thor. Strike at cursor or player.
-    usage: /<command> [player] [power]
-    aliases: [elightning,shock,eshock,smite,esmite,strike,estrike,thor,ethor]
   list:
     description: List all online players.
     usage: /<command> [group]
